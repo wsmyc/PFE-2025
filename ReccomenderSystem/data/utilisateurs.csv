@@ -1,0 +1,501 @@
+﻿id_utilisateur,âge,préférence_alimentaire,catégorie_préférée,dépense_moyenne
+1,56,Végétarien,Plats Traditionnels,40.0
+2,46,Végétarien,Plats Traditionnels,39.66
+3,32,Paleo,Plats Traditionnels,25.62
+4,60,Aucune,Desserts,16.19
+5,25,Paleo,Burgers & Sandwichs,22.47
+6,38,Keto,Burgers & Sandwichs,21.3
+7,56,Aucune,Entrées,10.35
+8,36,Aucune,Boissons Chaudes,10.0
+9,40,Aucune,Plats Traditionnels,29.82
+10,28,Aucune,Burgers & Sandwichs,25.86
+11,28,Aucune,Desserts,16.63
+12,41,Végétalien,Plats Traditionnels,27.41
+13,53,Aucune,Burgers & Sandwichs,23.86
+14,57,Aucune,Burgers & Sandwichs,10.0
+15,41,Halal,Options Végétariennes,22.6
+16,20,Aucune,Desserts,10.0
+17,39,Halal,Burgers & Sandwichs,18.19
+18,19,Aucune,Burgers & Sandwichs,14.4
+19,41,Aucune,Burgers & Sandwichs,13.53
+20,61,Végétalien,Desserts,18.48
+21,47,Végétalien,Burgers & Sandwichs,17.66
+22,55,Keto,Burgers & Sandwichs,21.73
+23,19,Sans Gluten,Options Végétariennes,17.81
+24,38,Halal,Burgers & Sandwichs,22.39
+25,50,Aucune,Desserts,15.23
+26,29,Aucune,Burgers & Sandwichs,13.59
+27,39,Sans Gluten,Burgers & Sandwichs,24.98
+28,61,Halal,Burgers & Sandwichs,17.53
+29,42,Paleo,Options Végétariennes,11.77
+30,44,Végétarien,Entrées,10.72
+31,59,Aucune,Entrées,16.5
+32,45,Sans Gluten,Plats Traditionnels,35.95
+33,33,Aucune,Desserts,13.95
+34,32,Paleo,Burgers & Sandwichs,18.25
+35,64,Keto,Burgers & Sandwichs,18.39
+36,61,Végétarien,Entrées,18.23
+37,20,Sans Gluten,Burgers & Sandwichs,21.91
+38,54,Sans Gluten,Burgers & Sandwichs,22.15
+39,24,Aucune,Burgers & Sandwichs,25.15
+40,38,Keto,Burgers & Sandwichs,21.19
+41,26,Végétarien,Burgers & Sandwichs,18.7
+42,56,Halal,Desserts,14.41
+43,35,Aucune,Plats Traditionnels,29.5
+44,21,Keto,Entrées,11.89
+45,42,Aucune,Entrées,14.18
+46,31,Aucune,Plats Traditionnels,30.36
+47,26,Keto,Burgers & Sandwichs,23.66
+48,43,Aucune,Plats Traditionnels,29.43
+49,19,Aucune,Desserts,15.24
+50,37,Paleo,Burgers & Sandwichs,10.01
+51,45,Paleo,Desserts,17.75
+52,64,Végétarien,Plats Traditionnels,32.43
+53,24,Végétalien,Desserts,17.99
+54,61,Végétarien,Plats Traditionnels,10.0
+55,25,Aucune,Burgers & Sandwichs,30.44
+56,64,Aucune,Boissons Chaudes,10.0
+57,52,Végétalien,Options Végétariennes,22.43
+58,31,Sans Gluten,Burgers & Sandwichs,14.8
+59,34,Halal,Entrées,13.84
+60,53,Halal,Plats Traditionnels,22.63
+61,57,Aucune,Entrées,10.13
+62,21,Végétarien,Options Végétariennes,25.66
+63,19,Aucune,Plats Traditionnels,28.67
+64,23,Végétarien,Burgers & Sandwichs,21.09
+65,59,Végétarien,Burgers & Sandwichs,24.35
+66,21,Keto,Plats Traditionnels,33.47
+67,46,Aucune,Desserts,15.45
+68,35,Aucune,Burgers & Sandwichs,21.82
+69,43,Aucune,Burgers & Sandwichs,32.02
+70,61,Sans Gluten,Entrées,11.83
+71,51,Végétalien,Accompagnements,10.4
+72,27,Aucune,Plats Traditionnels,37.35
+73,53,Aucune,Burgers & Sandwichs,25.53
+74,31,Sans Gluten,Burgers & Sandwichs,25.94
+75,48,Aucune,Burgers & Sandwichs,23.19
+76,32,Halal,Boissons Chaudes,10.0
+77,25,Sans Gluten,Burgers & Sandwichs,28.17
+78,31,Aucune,Desserts,11.56
+79,40,Aucune,Burgers & Sandwichs,21.51
+80,57,Paleo,Desserts,12.74
+81,38,Aucune,Desserts,14.81
+82,33,Aucune,Entrées,12.99
+83,62,Halal,Burgers & Sandwichs,21.61
+84,35,Paleo,Burgers & Sandwichs,22.11
+85,64,Paleo,Burgers & Sandwichs,28.07
+86,41,Sans Gluten,Boissons Chaudes,10.91
+87,43,Aucune,Entrées,11.27
+88,42,Aucune,Desserts,17.89
+89,62,Sans Gluten,Desserts,18.57
+90,58,Végétarien,Desserts,11.32
+91,46,Végétarien,Burgers & Sandwichs,22.99
+92,32,Keto,Boissons Chaudes,11.4
+93,62,Aucune,Plats Traditionnels,27.92
+94,18,Végétarien,Plats Traditionnels,39.63
+95,42,Aucune,Plats Traditionnels,28.95
+96,24,Végétarien,Burgers & Sandwichs,20.63
+97,26,Aucune,Burgers & Sandwichs,19.13
+98,41,Aucune,Options Végétariennes,18.06
+99,18,Aucune,Burgers & Sandwichs,14.52
+100,61,Végétalien,Desserts,10.68
+101,25,Sans Gluten,Burgers & Sandwichs,27.97
+102,41,Végétarien,Plats Traditionnels,24.07
+103,28,Paleo,Burgers & Sandwichs,15.04
+104,34,Aucune,Plats Traditionnels,14.93
+105,25,Aucune,Options Végétariennes,15.44
+106,52,Keto,Burgers & Sandwichs,13.38
+107,52,Aucune,Desserts,19.93
+108,50,Paleo,Plats Traditionnels,37.07
+109,22,Aucune,Desserts,12.94
+110,59,Paleo,Boissons Chaudes,14.5
+111,56,Aucune,Options Végétariennes,21.93
+112,58,Keto,Burgers & Sandwichs,18.38
+113,45,Végétarien,Burgers & Sandwichs,10.0
+114,24,Paleo,Burgers & Sandwichs,31.45
+115,26,Aucune,Desserts,10.83
+116,25,Végétarien,Burgers & Sandwichs,11.77
+117,29,Paleo,Plats Traditionnels,37.16
+118,51,Végétarien,Desserts,22.32
+119,50,Végétalien,Plats Traditionnels,39.69
+120,40,Végétalien,Options Végétariennes,20.26
+121,41,Végétarien,Burgers & Sandwichs,22.97
+122,54,Végétalien,Burgers & Sandwichs,24.27
+123,52,Végétarien,Options Végétariennes,21.04
+124,61,Keto,Plats Traditionnels,31.97
+125,57,Aucune,Desserts,15.31
+126,39,Aucune,Plats Traditionnels,29.56
+127,44,Paleo,Burgers & Sandwichs,16.23
+128,52,Keto,Entrées,11.16
+129,18,Végétarien,Options Végétariennes,11.23
+130,52,Végétalien,Desserts,14.7
+131,54,Aucune,Burgers & Sandwichs,15.06
+132,64,Aucune,Desserts,11.69
+133,31,Végétarien,Plats Traditionnels,31.26
+134,20,Aucune,Burgers & Sandwichs,26.96
+135,18,Végétarien,Boissons Chaudes,11.84
+136,22,Aucune,Burgers & Sandwichs,12.15
+137,43,Paleo,Accompagnements,10.0
+138,31,Paleo,Plats Traditionnels,36.59
+139,56,Végétalien,Burgers & Sandwichs,15.09
+140,44,Végétarien,Plats Traditionnels,28.43
+141,26,Aucune,Entrées,13.65
+142,32,Halal,Options Végétariennes,14.13
+143,32,Végétalien,Entrées,12.32
+144,43,Aucune,Desserts,11.0
+145,59,Paleo,Desserts,13.2
+146,30,Halal,Entrées,12.96
+147,49,Paleo,Burgers & Sandwichs,12.04
+148,56,Sans Gluten,Plats Traditionnels,33.08
+149,49,Végétalien,Burgers & Sandwichs,19.9
+150,21,Végétarien,Accompagnements,11.1
+151,47,Paleo,Boissons Chaudes,10.45
+152,54,Keto,Burgers & Sandwichs,26.82
+153,40,Aucune,Options Végétariennes,18.5
+154,56,Aucune,Boissons Chaudes,10.0
+155,62,Aucune,Burgers & Sandwichs,20.61
+156,32,Halal,Desserts,16.63
+157,60,Paleo,Boissons Chaudes,10.1
+158,46,Aucune,Burgers & Sandwichs,20.2
+159,53,Végétarien,Desserts,12.89
+160,30,Aucune,Burgers & Sandwichs,16.69
+161,49,Paleo,Boissons Chaudes,10.0
+162,24,Halal,Accompagnements,13.5
+163,39,Halal,Boissons Chaudes,10.0
+164,45,Végétarien,Plats Traditionnels,25.15
+165,19,Végétarien,Entrées,10.0
+166,59,Aucune,Entrées,14.68
+167,62,Aucune,Plats Traditionnels,27.94
+168,23,Keto,Entrées,15.74
+169,45,Halal,Burgers & Sandwichs,16.63
+170,45,Paleo,Desserts,15.84
+171,61,Paleo,Burgers & Sandwichs,15.82
+172,61,Végétarien,Burgers & Sandwichs,30.73
+173,37,Sans Gluten,Burgers & Sandwichs,14.06
+174,47,Paleo,Desserts,15.93
+175,28,Halal,Plats Traditionnels,34.44
+176,45,Aucune,Options Végétariennes,19.66
+177,42,Végétarien,Burgers & Sandwichs,19.07
+178,56,Aucune,Plats Traditionnels,29.09
+179,50,Paleo,Plats Traditionnels,30.31
+180,18,Végétalien,Options Végétariennes,17.41
+181,44,Aucune,Plats Traditionnels,36.75
+182,30,Végétalien,Desserts,21.63
+183,58,Végétalien,Entrées,10.33
+184,20,Aucune,Desserts,10.89
+185,56,Aucune,Burgers & Sandwichs,19.56
+186,23,Végétalien,Burgers & Sandwichs,32.9
+187,25,Végétarien,Entrées,10.0
+188,44,Sans Gluten,Burgers & Sandwichs,28.2
+189,26,Végétarien,Entrées,17.03
+190,54,Keto,Plats Traditionnels,26.12
+191,50,Végétarien,Boissons Chaudes,11.14
+192,59,Végétarien,Options Végétariennes,24.51
+193,61,Keto,Accompagnements,10.0
+194,41,Végétarien,Plats Traditionnels,28.57
+195,32,Aucune,Options Végétariennes,15.67
+196,49,Aucune,Plats Traditionnels,22.9
+197,49,Sans Gluten,Plats Traditionnels,25.46
+198,41,Végétalien,Desserts,11.33
+199,58,Sans Gluten,Entrées,12.1
+200,29,Aucune,Accompagnements,10.0
+201,56,Aucune,Options Végétariennes,18.94
+202,19,Aucune,Plats Traditionnels,19.11
+203,20,Aucune,Plats Traditionnels,32.32
+204,54,Végétarien,Options Végétariennes,21.33
+205,34,Aucune,Burgers & Sandwichs,10.03
+206,19,Végétarien,Burgers & Sandwichs,21.87
+207,19,Keto,Plats Traditionnels,38.59
+208,45,Aucune,Burgers & Sandwichs,13.95
+209,40,Végétarien,Burgers & Sandwichs,28.36
+210,54,Halal,Burgers & Sandwichs,22.1
+211,49,Aucune,Burgers & Sandwichs,16.47
+212,50,Végétalien,Burgers & Sandwichs,19.72
+213,18,Keto,Accompagnements,11.12
+214,36,Paleo,Plats Traditionnels,30.53
+215,19,Aucune,Plats Traditionnels,33.77
+216,61,Paleo,Desserts,12.24
+217,43,Végétarien,Burgers & Sandwichs,20.85
+218,49,Aucune,Boissons Chaudes,10.0
+219,23,Végétarien,Options Végétariennes,17.56
+220,49,Paleo,Burgers & Sandwichs,15.48
+221,21,Végétarien,Plats Traditionnels,24.85
+222,28,Aucune,Entrées,15.71
+223,34,Végétalien,Boissons Chaudes,12.18
+224,55,Aucune,Plats Traditionnels,34.26
+225,41,Aucune,Desserts,11.72
+226,22,Aucune,Burgers & Sandwichs,18.42
+227,51,Aucune,Accompagnements,12.43
+228,23,Aucune,Burgers & Sandwichs,20.71
+229,39,Aucune,Boissons Chaudes,14.64
+230,28,Végétalien,Desserts,16.18
+231,33,Aucune,Desserts,15.58
+232,50,Aucune,Plats Traditionnels,27.84
+233,26,Keto,Burgers & Sandwichs,20.67
+234,23,Végétarien,Burgers & Sandwichs,19.24
+235,33,Végétalien,Burgers & Sandwichs,23.54
+236,46,Aucune,Burgers & Sandwichs,24.78
+237,20,Aucune,Options Végétariennes,14.86
+238,37,Aucune,Plats Traditionnels,20.68
+239,53,Aucune,Burgers & Sandwichs,10.82
+240,36,Aucune,Accompagnements,11.02
+241,43,Aucune,Entrées,10.0
+242,20,Aucune,Boissons Chaudes,10.0
+243,36,Aucune,Accompagnements,10.78
+244,37,Végétarien,Burgers & Sandwichs,32.46
+245,49,Aucune,Plats Traditionnels,29.96
+246,24,Aucune,Options Végétariennes,21.35
+247,58,Végétarien,Desserts,15.25
+248,50,Végétalien,Burgers & Sandwichs,19.51
+249,57,Aucune,Entrées,14.76
+250,56,Halal,Burgers & Sandwichs,18.55
+251,35,Végétalien,Burgers & Sandwichs,21.34
+252,57,Aucune,Plats Traditionnels,32.25
+253,18,Keto,Desserts,13.0
+254,28,Paleo,Desserts,17.98
+255,45,Aucune,Burgers & Sandwichs,19.13
+256,42,Aucune,Entrées,10.0
+257,40,Halal,Burgers & Sandwichs,22.68
+258,48,Sans Gluten,Burgers & Sandwichs,15.51
+259,47,Aucune,Entrées,12.08
+260,59,Aucune,Accompagnements,10.0
+261,52,Aucune,Entrées,15.26
+262,24,Végétarien,Entrées,13.42
+263,33,Végétalien,Desserts,14.92
+264,43,Aucune,Desserts,17.45
+265,19,Végétarien,Burgers & Sandwichs,26.95
+266,18,Sans Gluten,Plats Traditionnels,33.9
+267,29,Aucune,Plats Traditionnels,30.07
+268,22,Aucune,Burgers & Sandwichs,13.44
+269,54,Sans Gluten,Options Végétariennes,13.74
+270,49,Keto,Plats Traditionnels,27.86
+271,26,Végétarien,Burgers & Sandwichs,16.95
+272,58,Végétarien,Burgers & Sandwichs,19.07
+273,52,Aucune,Desserts,15.17
+274,36,Végétarien,Burgers & Sandwichs,22.65
+275,33,Végétarien,Entrées,11.79
+276,20,Aucune,Plats Traditionnels,33.41
+277,37,Aucune,Plats Traditionnels,30.45
+278,41,Aucune,Desserts,10.0
+279,50,Aucune,Entrées,10.0
+280,41,Aucune,Plats Traditionnels,28.99
+281,28,Aucune,Desserts,11.37
+282,25,Aucune,Desserts,16.8
+283,53,Aucune,Burgers & Sandwichs,27.65
+284,55,Keto,Entrées,15.66
+285,57,Végétarien,Options Végétariennes,17.15
+286,37,Végétalien,Desserts,19.47
+287,52,Halal,Entrées,12.45
+288,42,Végétarien,Entrées,10.99
+289,52,Aucune,Options Végétariennes,15.55
+290,42,Végétarien,Entrées,11.09
+291,46,Végétarien,Desserts,13.84
+292,35,Sans Gluten,Desserts,15.51
+293,63,Végétarien,Desserts,15.48
+294,35,Aucune,Options Végétariennes,18.01
+295,19,Aucune,Burgers & Sandwichs,22.18
+296,52,Aucune,Entrées,15.57
+297,33,Végétalien,Entrées,14.85
+298,58,Végétarien,Burgers & Sandwichs,12.58
+299,53,Aucune,Entrées,10.0
+300,50,Paleo,Burgers & Sandwichs,24.67
+301,21,Végétalien,Plats Traditionnels,20.43
+302,50,Aucune,Options Végétariennes,17.1
+303,31,Aucune,Burgers & Sandwichs,14.15
+304,38,Aucune,Entrées,10.0
+305,37,Aucune,Entrées,13.62
+306,25,Aucune,Plats Traditionnels,35.31
+307,24,Aucune,Burgers & Sandwichs,17.12
+308,20,Aucune,Burgers & Sandwichs,10.0
+309,34,Aucune,Desserts,13.36
+310,50,Keto,Accompagnements,10.78
+311,29,Aucune,Desserts,10.56
+312,39,Végétarien,Burgers & Sandwichs,20.92
+313,39,Végétarien,Desserts,14.95
+314,63,Paleo,Plats Traditionnels,34.06
+315,47,Aucune,Options Végétariennes,18.48
+316,55,Aucune,Burgers & Sandwichs,15.13
+317,55,Paleo,Options Végétariennes,22.79
+318,62,Keto,Plats Traditionnels,28.89
+319,25,Halal,Accompagnements,10.0
+320,44,Aucune,Plats Traditionnels,23.47
+321,44,Aucune,Desserts,13.67
+322,51,Végétalien,Boissons Chaudes,10.0
+323,38,Paleo,Burgers & Sandwichs,19.14
+324,47,Végétarien,Boissons Chaudes,13.42
+325,50,Végétarien,Desserts,10.88
+326,45,Aucune,Burgers & Sandwichs,11.93
+327,64,Sans Gluten,Plats Traditionnels,40.0
+328,50,Aucune,Options Végétariennes,17.16
+329,22,Aucune,Burgers & Sandwichs,16.65
+330,36,Végétarien,Desserts,18.12
+331,21,Végétarien,Plats Traditionnels,25.76
+332,52,Aucune,Desserts,20.48
+333,34,Aucune,Burgers & Sandwichs,23.39
+334,61,Végétalien,Entrées,10.54
+335,45,Aucune,Accompagnements,14.31
+336,47,Végétarien,Accompagnements,10.0
+337,46,Aucune,Options Végétariennes,20.97
+338,63,Végétarien,Burgers & Sandwichs,21.5
+339,23,Végétarien,Options Végétariennes,23.21
+340,52,Aucune,Burgers & Sandwichs,27.81
+341,58,Aucune,Burgers & Sandwichs,20.16
+342,54,Aucune,Plats Traditionnels,24.73
+343,41,Aucune,Plats Traditionnels,33.22
+344,46,Paleo,Options Végétariennes,15.29
+345,63,Aucune,Desserts,21.04
+346,48,Halal,Plats Traditionnels,30.96
+347,52,Aucune,Burgers & Sandwichs,18.17
+348,50,Végétalien,Accompagnements,10.37
+349,38,Sans Gluten,Plats Traditionnels,20.57
+350,49,Végétarien,Plats Traditionnels,23.2
+351,40,Végétarien,Burgers & Sandwichs,26.0
+352,50,Végétarien,Options Végétariennes,15.37
+353,20,Aucune,Desserts,11.86
+354,35,Paleo,Burgers & Sandwichs,22.68
+355,42,Halal,Burgers & Sandwichs,25.93
+356,59,Paleo,Desserts,17.16
+357,48,Aucune,Desserts,17.99
+358,20,Sans Gluten,Burgers & Sandwichs,16.22
+359,57,Paleo,Accompagnements,10.0
+360,63,Aucune,Burgers & Sandwichs,27.51
+361,41,Aucune,Plats Traditionnels,27.74
+362,49,Sans Gluten,Boissons Chaudes,10.0
+363,64,Végétarien,Plats Traditionnels,39.3
+364,39,Halal,Desserts,16.67
+365,40,Aucune,Plats Traditionnels,33.19
+366,19,Halal,Burgers & Sandwichs,30.83
+367,44,Aucune,Accompagnements,10.0
+368,59,Aucune,Plats Traditionnels,36.49
+369,19,Aucune,Entrées,12.17
+370,43,Halal,Burgers & Sandwichs,21.34
+371,34,Végétalien,Burgers & Sandwichs,27.64
+372,57,Végétarien,Burgers & Sandwichs,22.54
+373,50,Aucune,Desserts,16.61
+374,26,Keto,Plats Traditionnels,37.51
+375,60,Aucune,Entrées,10.91
+376,56,Halal,Plats Traditionnels,24.13
+377,46,Végétarien,Accompagnements,10.0
+378,59,Aucune,Burgers & Sandwichs,10.17
+379,43,Végétarien,Entrées,18.17
+380,52,Aucune,Options Végétariennes,13.59
+381,42,Sans Gluten,Options Végétariennes,17.11
+382,41,Végétarien,Entrées,11.17
+383,30,Aucune,Options Végétariennes,19.23
+384,24,Keto,Desserts,17.45
+385,53,Aucune,Burgers & Sandwichs,24.3
+386,62,Végétarien,Burgers & Sandwichs,17.08
+387,37,Keto,Boissons Chaudes,10.0
+388,18,Végétalien,Desserts,15.85
+389,25,Aucune,Options Végétariennes,17.01
+390,63,Paleo,Plats Traditionnels,40.0
+391,33,Végétalien,Burgers & Sandwichs,22.45
+392,31,Aucune,Burgers & Sandwichs,23.67
+393,29,Aucune,Desserts,16.99
+394,40,Halal,Plats Traditionnels,38.21
+395,32,Végétalien,Burgers & Sandwichs,20.91
+396,45,Végétarien,Plats Traditionnels,20.92
+397,51,Keto,Burgers & Sandwichs,22.0
+398,19,Halal,Desserts,13.05
+399,49,Aucune,Burgers & Sandwichs,17.36
+400,40,Aucune,Options Végétariennes,20.35
+401,39,Aucune,Plats Traditionnels,38.67
+402,42,Sans Gluten,Plats Traditionnels,30.15
+403,39,Aucune,Burgers & Sandwichs,21.54
+404,39,Végétarien,Burgers & Sandwichs,28.51
+405,59,Sans Gluten,Plats Traditionnels,31.69
+406,23,Keto,Plats Traditionnels,40.0
+407,32,Aucune,Desserts,16.7
+408,60,Halal,Burgers & Sandwichs,11.2
+409,54,Aucune,Desserts,17.26
+410,50,Halal,Entrées,13.14
+411,25,Aucune,Options Végétariennes,23.16
+412,61,Aucune,Burgers & Sandwichs,23.37
+413,61,Halal,Plats Traditionnels,29.03
+414,22,Aucune,Burgers & Sandwichs,13.88
+415,56,Aucune,Burgers & Sandwichs,18.95
+416,21,Sans Gluten,Accompagnements,10.0
+417,23,Sans Gluten,Burgers & Sandwichs,17.1
+418,62,Végétalien,Plats Traditionnels,34.12
+419,49,Végétalien,Desserts,20.01
+420,47,Végétarien,Options Végétariennes,19.58
+421,64,Aucune,Desserts,11.41
+422,52,Aucune,Burgers & Sandwichs,22.22
+423,57,Aucune,Plats Traditionnels,38.38
+424,33,Keto,Plats Traditionnels,25.73
+425,30,Végétarien,Burgers & Sandwichs,19.33
+426,59,Végétarien,Plats Traditionnels,30.1
+427,47,Végétarien,Burgers & Sandwichs,16.08
+428,36,Paleo,Burgers & Sandwichs,23.24
+429,34,Aucune,Plats Traditionnels,29.15
+430,36,Végétarien,Burgers & Sandwichs,22.1
+431,45,Végétarien,Desserts,12.34
+432,43,Végétalien,Desserts,13.69
+433,54,Aucune,Entrées,14.17
+434,43,Keto,Burgers & Sandwichs,18.14
+435,40,Paleo,Burgers & Sandwichs,28.63
+436,26,Végétarien,Burgers & Sandwichs,18.0
+437,29,Végétalien,Desserts,15.67
+438,18,Paleo,Options Végétariennes,21.73
+439,18,Sans Gluten,Burgers & Sandwichs,12.91
+440,64,Aucune,Boissons Chaudes,10.0
+441,51,Végétarien,Burgers & Sandwichs,12.37
+442,49,Végétalien,Plats Traditionnels,38.84
+443,42,Végétarien,Options Végétariennes,15.79
+444,57,Sans Gluten,Entrées,19.67
+445,62,Paleo,Options Végétariennes,15.74
+446,18,Paleo,Entrées,12.55
+447,33,Végétarien,Plats Traditionnels,40.0
+448,56,Aucune,Entrées,18.02
+449,22,Paleo,Burgers & Sandwichs,30.31
+450,39,Halal,Entrées,15.63
+451,46,Aucune,Plats Traditionnels,37.17
+452,20,Paleo,Entrées,13.78
+453,29,Keto,Plats Traditionnels,35.45
+454,43,Végétarien,Desserts,13.35
+455,33,Végétarien,Plats Traditionnels,24.27
+456,54,Aucune,Options Végétariennes,17.99
+457,39,Aucune,Burgers & Sandwichs,19.15
+458,46,Aucune,Burgers & Sandwichs,17.73
+459,31,Halal,Burgers & Sandwichs,23.48
+460,45,Aucune,Burgers & Sandwichs,24.78
+461,22,Aucune,Entrées,12.27
+462,64,Aucune,Burgers & Sandwichs,27.39
+463,47,Végétarien,Accompagnements,10.0
+464,63,Paleo,Plats Traditionnels,28.64
+465,22,Aucune,Burgers & Sandwichs,16.42
+466,29,Aucune,Options Végétariennes,10.53
+467,33,Sans Gluten,Desserts,14.75
+468,43,Végétarien,Plats Traditionnels,29.15
+469,43,Aucune,Desserts,19.54
+470,38,Végétarien,Options Végétariennes,20.52
+471,56,Aucune,Burgers & Sandwichs,14.88
+472,53,Aucune,Accompagnements,13.71
+473,50,Végétarien,Accompagnements,12.44
+474,47,Végétarien,Desserts,16.75
+475,54,Paleo,Burgers & Sandwichs,18.87
+476,40,Aucune,Desserts,12.12
+477,27,Végétarien,Burgers & Sandwichs,18.14
+478,22,Végétalien,Burgers & Sandwichs,25.44
+479,53,Aucune,Burgers & Sandwichs,29.42
+480,51,Végétalien,Plats Traditionnels,40.0
+481,48,Aucune,Entrées,10.53
+482,27,Paleo,Options Végétariennes,13.52
+483,36,Aucune,Options Végétariennes,18.56
+484,49,Végétarien,Plats Traditionnels,17.62
+485,18,Aucune,Plats Traditionnels,32.26
+486,22,Paleo,Plats Traditionnels,28.97
+487,62,Végétarien,Accompagnements,10.0
+488,21,Végétarien,Burgers & Sandwichs,12.03
+489,33,Aucune,Entrées,13.54
+490,41,Sans Gluten,Desserts,13.4
+491,33,Aucune,Plats Traditionnels,21.81
+492,19,Keto,Options Végétariennes,10.0
+493,45,Aucune,Plats Traditionnels,29.81
+494,49,Aucune,Entrées,17.32
+495,44,Aucune,Boissons Chaudes,13.32
+496,37,Végétarien,Plats Traditionnels,26.8
+497,41,Végétarien,Burgers & Sandwichs,16.99
+498,29,Aucune,Desserts,16.41
+499,52,Sans Gluten,Boissons Chaudes,10.0
+500,50,Végétarien,Burgers & Sandwichs,21.51
