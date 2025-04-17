@@ -1,0 +1,122 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 44 70% 87%; /* e9b975 - light yellow */
+    --foreground: 143 40% 23%; /* 245536 - dark green */
+
+    --card: 0 0% 100%;
+    --card-foreground: 143 40% 23%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 143 40% 23%;
+
+    --primary: 143 40% 23%; /* 245536 - dark green */
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 16 100% 36%; /* ba3400 - burnt orange */
+    --secondary-foreground: 0 0% 100%;
+
+    --muted: 27 64% 59%; /* db9051 - light orange-brown */
+    --muted-foreground: 143 40% 23%;
+
+    --accent: 16 100% 36%; /* ba3400 - burnt orange */
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 16 100% 36%;
+    --input: 27 64% 59%; /* db9051 - light orange-brown */
+    --ring: 143 40% 23%;
+
+    --radius: 0.5rem;
+
+    --sidebar-background: 143 40% 23%; /* 245536 - dark green */
+    --sidebar-foreground: 0 0% 100%;
+    --sidebar-primary: 16 100% 36%; /* ba3400 - burnt orange */
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 143 40% 13%;
+    --sidebar-accent-foreground: 0 0% 100%;
+    --sidebar-border: 143 40% 33%;
+    --sidebar-ring: 16 100% 36%;
+  }
+
+  .dark {
+    /* Keep the same theme for dark mode */
+    --background: 44 70% 87%;
+    --foreground: 143 40% 23%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 143 40% 23%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 143 40% 23%;
+
+    --primary: 143 40% 23%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 16 100% 36%;
+    --secondary-foreground: 0 0% 100%;
+
+    --muted: 27 64% 59%;
+    --muted-foreground: 143 40% 23%;
+
+    --accent: 16 100% 36%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 16 100% 36%;
+    --input: 27 64% 59%;
+    --ring: 143 40% 23%;
+
+    --sidebar-background: 143 40% 23%;
+    --sidebar-foreground: 0 0% 100%;
+    --sidebar-primary: 16 100% 36%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 143 40% 13%;
+    --sidebar-accent-foreground: 0 0% 100%;
+    --sidebar-border: 143 40% 33%;
+    --sidebar-ring: 16 100% 36%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-restaurant-background text-foreground font-poppins;
+  }
+}
+
+/* Custom utility classes */
+@layer components {
+  .card-dashboard {
+    @apply bg-white rounded-lg shadow-md p-4 transition-all duration-200 hover:shadow-lg;
+  }
+  
+  .btn-primary {
+    @apply bg-restaurant-primary text-white px-4 py-2 rounded-md hover:bg-opacity-90 transition-colors;
+  }
+  
+  .btn-secondary {
+    @apply bg-restaurant-accent text-white px-4 py-2 rounded-md hover:bg-opacity-90 transition-colors;
+  }
+  
+  .input-field {
+    @apply bg-restaurant-input bg-opacity-20 border border-restaurant-input border-opacity-30 rounded-md px-3 py-2 focus:outline-none focus:ring-2 focus:ring-restaurant-primary;
+  }
+
+  .form-label {
+    @apply block text-sm font-medium mb-1;
+  }
+}
